@@ -1,0 +1,22 @@
+Dear Hiring Manager,
+
+Paragraph 1:
+    - Instructions for paragraph 1
+
+Paragraph 2:
+    - Instructions for paragraph 2
+
+Paragraph 3:
+    - Instructions for paragraph 3
+
+Paragraph 4:
+    - Instructions for paragraph 4
+
+Paragraph 5:
+    - Instructions for paragraph 5
+
+Paragraph 6:
+    - Instructions for paragraph 6
+
+Sincerely,
+Name Surname

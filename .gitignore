@@ -1,0 +1,23 @@
+# Python
+*.py[cod]
+.pytest_cache/
+.venv/
+
+.env
+
+# IDE & System files
+.DS_Store
+.idea/
+.vscode/
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Other
+assets/archive/
+
